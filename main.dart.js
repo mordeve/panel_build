@@ -29515,7 +29515,7 @@ o.sWb(s)
 q=o
 r.Xw$=q
 r.Xx$=new A.a4r(A.aG(t.Gf))
-q.rB$="http://91.151.95.34:5050"
+q.rB$="https://app.visdavet.com"
 q.x=!0
 q.sJ0(0,"application/json")
 q.w=new A.a7c()
